@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @EmreBeratKR
-- 🌱 I’m currently learning Unity.
-- 💞️ I’m looking to collaborate on Startups and Small Projects.
-- 📫 How to reach me : emreberatkrn@gmail.com
+<img align="left" alt="Banner" src="https://media.istockphoto.com/vectors/computer-games-development-concept-banner-header-vector-id1169059259?k=20&m=1169059259&s=170667a&w=0&h=eTM21QPAMAOzsykzQovqubRUphy20WK8cB1c-dXiVjg=" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### 🔧 My Tools:
 
@@ -25,10 +33,12 @@
 [<img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />][gmail]
 [<img align="left" alt="linkedin | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
+[<img align="left" height="40px" width="40px" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" />][itchio]
 
 [gmail]: mailto:emreberatkrn@gmail.com
 [linkedin]: https://www.linkedin.com/in/emreberat/
 [instagram]: https://www.instagram.com/emreberat19/
+[itchio]: https://emreberatkr.itch.io/
 
 <br/>
 <br/>
