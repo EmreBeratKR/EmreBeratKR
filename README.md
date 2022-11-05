@@ -1,16 +1,3 @@
-<img align="left" alt="Banner" src="https://media.istockphoto.com/vectors/computer-games-development-concept-banner-header-vector-id1169059259?k=20&m=1169059259&s=170667a&w=0&h=eTM21QPAMAOzsykzQovqubRUphy20WK8cB1c-dXiVjg=" />
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 ### 🔧 My Tools:
 
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" />][rider]
