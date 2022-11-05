@@ -1,8 +1,39 @@
-  - 👋 Hi, I’m @EmreBeratKR
-- 👀 I’m interested in Technology.
+- 👋 Hi, I’m @EmreBeratKR
 - 🌱 I’m currently learning Unity.
 - 💞️ I’m looking to collaborate on Startups and Small Projects.
 - 📫 How to reach me : emreberatkrn@gmail.com
+
+### 🔧 My Tools:
+
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" />][rider]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />][vsCode]
+[<img align="left" alt="Unity" width="40px" src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" />][unity]
+[<img align="left" alt="Blender" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" />][blender]
+[<img align="left" alt="Blender" width="40px" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" />][photoshop]
+
+[vsCode]: https://code.visualstudio.com/
+[rider]: https://www.jetbrains.com/rider/
+[unity]: https://www.unity.com/
+[blender]: https://www.blender.org/
+[photoshop]: https://www.adobe.com/tr/products/photoshop.html
+
+<br/>
+<br/>
+
+### 📩 Connect with me:
+
+[<img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />][gmail]
+[<img align="left" alt="linkedin | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
+
+[gmail]: mailto:emreberatkrn@gmail.com
+[linkedin]: https://www.linkedin.com/in/emreberat/
+[instagram]: https://www.instagram.com/emreberat19/
+
+<br/>
+<br/>
+
+### 🏆 Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBeratKR&theme=dracula&hide=shaderlab,hlsl&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmreBeratKR&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
