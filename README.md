@@ -1,4 +1,4 @@
-## 🕹️ Game Developer
+## 🕹️ Game Develope
 
 ### 🔧 My Tools:
 
