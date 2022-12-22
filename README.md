@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-### 📩 Connect with me:
+### 📩 Connect with me
 
 [<img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />][gmail]
 [<img align="left" alt="linkedin | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
