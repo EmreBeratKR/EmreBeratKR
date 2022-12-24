@@ -7,12 +7,14 @@
 [<img align="left" alt="Unity" width="40px" src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" />][unity]
 [<img align="left" alt="Blender" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" />][blender]
 [<img align="left" alt="Blender" width="40px" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" />][photoshop]
+[<img align="left" alt="Blender" width="40px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/davinci_resolve_macos_bigsur_icon_190261.png" />][davinci]
 
 [vsCode]: https://code.visualstudio.com/
 [rider]: https://www.jetbrains.com/rider/
 [unity]: https://www.unity.com/
 [blender]: https://www.blender.org/
 [photoshop]: https://www.adobe.com/tr/products/photoshop.html
+[davinci]: https://www.blackmagicdesign.com/products/davinciresolve
 
 <br/>
 <br/>
