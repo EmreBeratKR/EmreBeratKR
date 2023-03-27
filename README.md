@@ -40,6 +40,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmreBeratKR&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmreBeratKR&theme=dracula)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=emreberatkr&color=ff6e96&label=Visitors&style=flat)
+
 <!---
 EmreBeratKR/EmreBeratKR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
