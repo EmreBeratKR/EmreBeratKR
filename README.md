@@ -1,4 +1,4 @@
-## 🕹️ Game Developer
+## 🕹️ Game Developer & .NET Developer
 
 ### 🔧 My Tools:
 
